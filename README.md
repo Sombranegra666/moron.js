@@ -1,2 +1,3 @@
-# moron.js
-An SQL-friendly ORM for Node.js
+
+# moron.js has been renabed to [objection.js](https://github.com/Vincit/objection.js)
+
